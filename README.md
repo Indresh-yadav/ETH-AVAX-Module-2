@@ -13,8 +13,8 @@ This Solidity smart contract, named "Assessment", implements a financial system 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 For installing the libraries of the react
-1.npm install styled-components
-2.npm install react-icons
+1. npm install styled-components
+2. npm install react-icons
 
 
 For installing the libraries for the hardhat
